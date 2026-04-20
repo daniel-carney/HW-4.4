@@ -1,0 +1,83 @@
+Plan For the Project: 
+	
+Goals: 
+	The goal for the project was to create my first reproducible data analysis document through the use of Quarto. It is to be comprised of four distinct sections: 1. Busiest Airport Analysis, 2. Monte Carlo Numerical Integration, 3. Planning and Prompting GenAI Tools, 4. Reflection. It also includes references to the GenAI model and prompts which I used within the Planning and Prompting GenAI section as well as the larger code appendix showing all code used for the first two sections. 
+
+Needs: 
+	Nouns:
+		RStudio, Quarto, Busiest Airport Analysis RScript(from previous assignment), Monte Carlo Numerical Integration RScript(from previous assignment), GenAI(Claude is used for the Planning and Prompting GenAI Tools), calcium 		data, complete quarto document by creating each of the four sections, output PDF file from the quarto file.  
+	Verbs: 
+		Create a new RProject, Locate and open all of the needed RScripts, Create a new Quarto file, follow the process of creating a title, and adding each section, create the appendix, render the PDF, review the PDF for 			accuracy, push both into the GitHub repository.
+Steps:
+	1. Begin by opening RStudio and creating a new project
+	2. Locate and open all of the necessary code from the previous assignments
+	3. Create a quarto document and begin its creation
+		a. Create the title and description
+		b. Begin with the Busiest Airports Analysis
+			I. Create a long description of the process and findings from this code
+		       II. Provide the data and visualizations with appropriate captions and descriptions
+		      III. Describe the insights from code
+		c. Make the Monte Carlo Numerical Integration section
+			I. Explain what the Weibull distribution is and why it is important here
+		       II. Explain what Monte Carlo numerical integration is and how it was implemented
+		      III. Provide a description for the results as well as the well labeled visualization created through this method of finding area under the curve
+		d. Make the Planning and Prompting GenAI Tools section
+			I. Begin by choosing one of the GenAI tools(claude was selected)
+		       II. Create a plan for finding an insight from the calcium data
+		      III. Provide the plan to the GenAI and copy the conversation
+		       IV. Document which GenAI was selected and provide the initial plan, the prompt, and the response
+			V. Next, provide the GenAI a generic prompt (do not give it the plan) and copy the conversation
+                       VI. Document both the prompt and the response 
+		      VII. Compare both responses and evaluate whether or not one may have performed better than the other and why that might have been 
+		e. Make the Reflection section
+			I. Follow the rubric and reflect on what has been learned throughout the course thus far
+		f. Create the Code Appendix and provide all of the code that was used for sections one and two (section 3's appendix is included within itself)  
+	4. Render the PDF of the quarto document
+	5. Review this document for accuracy 
+	6. Push it to the GitHub repository  
+
+
+Plan For Setting Up and Maintaining the Repo:
+	
+Goals: 
+	The plan for this repository is to keep all of the documentation for homework 3.3 well documented by pushing the quarto file, the output PDF document, a README explaining the repository and this plan document. I plan to maintain the repo by using effective descriptions for all commits to the repo as well as documenting all issues and closing them once they have been completed and referenced within a commit. 
+
+Needs: 
+	Nouns:
+		GitHub desktop edition, GitHub web version, reproducible data analysis quarto document, pdf file output from quarto document, README file, planning text file
+	Verbs:  
+		Create repository, add branch, push to GitHub, commit changes, create issues, create plan text document, assign issues, tag issues, close issues, merge branches, pull to new branch from main
+
+Steps: 
+	1. Goto GitHub web version and create a new repository with a README.md file
+	2. On the GitHub desktop version create a new branch aside from the main branch
+	3. Open the file for the repository and bring the reproducible analysis quarto document over as well as the pdf output file
+	4. Make commits with appropriate descriptions for the documents
+	5. On the web version create issues for updating the README document and the planning document and assign them to yourself
+	6. Open the repository files to open the README document and update it following the rubrics guideline
+	7. Commit the changes with an effective description and tag the issue
+	8. Open the files for the repository and create a blank text document for the planning 
+	9. Bring the plan for the initial project into the new planning document 
+       10. Create the new plan for the repository 
+       11. Make a commit of the plan document and tag the issue in the description
+       12. Ensure everything is pushed to the main branch
+       13. Pull or merge the two branches with all updated information inside the repository
+       14. Close the issues 
+       15. Maintain the repository in future use by creating new issues, solving them, committing the changes, pushing them to the main branch, and then closing the issue. 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
